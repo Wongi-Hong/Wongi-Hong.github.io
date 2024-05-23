@@ -1,12 +1,12 @@
 .main_content {
-  width: 550px;
+  width: 400px;
   margin: auto;
   display: flex;
   flex-direction: column;
   align-items: center;
-}
-.song_photo {
-  margin-top: 30px;
+  border: rgba(44, 44, 44, 0.535) 1.3px solid;
+  border-radius: 50px;
+  padding: 30px 20px;
 }
 .song_photo img {
   width: 350px;
