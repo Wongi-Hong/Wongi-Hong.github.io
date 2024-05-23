@@ -98,3 +98,37 @@
   font-size: 35px;
   color: rgba(4, 40, 117, 0.889);
 }
+.volume_main {
+  margin-top: 90px;
+  display: flex;
+}
+.volume_main i {
+  color: rgb(65, 9, 130);
+}
+.volume_bar {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.volume_down {
+  margin-left: 20px;
+  width: 100px;
+  height: 5px;
+  border-radius: 2px;
+  background-color: rgb(132, 59, 196);
+}
+.volume_current {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: rgb(96, 21, 161);
+  position: absolute;
+  left: 115px;
+}
+.volume_up {
+  margin-right: 20px;
+  width: 150px;
+  height: 5px;
+  border-radius: 2px;
+  background-color: rgb(183, 141, 220);
+}
