@@ -1,0 +1,46 @@
+.main_div {
+  height: 1000px;
+  width: 800px;
+  background-color: rgba(255, 252, 222, 0.857);
+  margin: auto;
+}
+.heading_div {
+  text-align: center;
+  padding: 20px 0px;
+}
+.content_div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding: 0px 60px;
+}
+.color_div {
+  height: 400px;
+  width: 230px;
+  background-color: antiquewhite;
+  margin-bottom: 30px;
+  border: 4px white solid;
+}
+.text_div {
+  margin-top: 30px;
+  background-color: white;
+  padding: 3px 15px;
+}
+.text_div h1:first-child {
+  font-size: 26px;
+}
+.text_div h1:nth-child(2) {
+  font-size: 22px;
+}
+#first_div {
+  background-color: rgb(169, 204, 227);
+}
+#second_div {
+  background-color: rgb(215, 189, 226);
+}
+#third_div {
+  background-color: rgb(208, 236, 231);
+}
+#forth_div {
+  background-color: rgb(249, 231, 159);
+}
