@@ -1,7 +1,3 @@
-# Wongi-Hong.github.io
-
-My Portfolios </br>
-
 # Personal Color Design
 
 https://wongi-hong.github.io/Personal_Color
