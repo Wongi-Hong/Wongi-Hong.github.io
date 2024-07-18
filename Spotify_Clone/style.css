@@ -218,14 +218,3 @@ a {
   font-size: 20px;
   margin-top: 3px;
 }
-.playlist_song_info span {
-  transition: all 0.5s ease-in-out;
-}
-.playlist_main a:hover .playlist_song .playlist_song_info span {
-  color: rgb(135, 177, 255);
-}
-.playlist_main a:hover .playlist_song_photo img {
-  width: 58px;
-  height: 58px;
-  border-radius: 10px;
-}
