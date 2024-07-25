@@ -96,3 +96,6 @@ h1 {
 .song_info3 i {
   color: rgb(198, 198, 198);
 }
+.top_song:hover .song_info3 i {
+  color: rgb(136, 136, 136);
+}
